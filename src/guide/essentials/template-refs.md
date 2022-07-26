@@ -105,7 +105,7 @@ const list = ref([
 
 const itemRefs = ref([])
 
-onMounted(() => console.log(itemRefs.value))
+onMounted(() => console.log(itemRefs.value));;;;;;;;;;;;
 </script>
 
 <template>
